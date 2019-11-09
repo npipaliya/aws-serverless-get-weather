@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "ice-cream-shop-4-executor",
+    "name": "ice-cream-shop-4",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "ay68vfoqsi",
+    "module": "app"
+  }
+}
